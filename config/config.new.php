@@ -41,18 +41,3 @@ $config["slim"] = array(
     "cookies.secret_key" => $config["cookies"]["secret"],
     "templates.path" => BASEDIR . "/view/",
 );
-
-
-
-// IGNORE THIS SECTION FOR NOW!!!
-$config["groups"] = array(
-    "Blues" => array(
-        //"alliance" => 1234, // an alliance with the id 1234
-        //"corporation" => 1234, // a corporation with the id 1234
-        //"character" => 1234 // a character with the id 1234
-    ),
-    "Black Serpent Technologies" => array(
-        "corporation" => "1234" // Example
-    )
-);
-
