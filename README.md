@@ -3,5 +3,5 @@ CREST Auther for Discord using EVE-Discord as intermediary
 
 
 For use with:
--- https://github.com/LukeS5310/Broadsword
+-- https://github.com/LukeS5310/Broadsword\n
 -- https://github.com/hiveliberty/Broadsword
